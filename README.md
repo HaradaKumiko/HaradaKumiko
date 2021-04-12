@@ -16,6 +16,7 @@
 <img align="left" alt="Farhan Rivaldy | Instagram" width="21px" src="https://raw.githubusercontent.com/HaradaKumiko/HaradaKumiko/main/assets/instagram.png" />
 </a>
 
+<br> <br>
 </span>  Hi, I'm Farhan Rivaldy, I'm a Tech Enthusiasts from Indonesia. </span>
 
 <br> <br>
