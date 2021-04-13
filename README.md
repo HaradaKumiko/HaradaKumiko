@@ -1,9 +1,8 @@
 ### Hi there! 👋
 
-</p>  Hi, I'm Farhan Rivaldy, I'm a Tech Enthusiasts from Indonesia. 
-If you need something from me, feel free to contact me at : 
-⬇️⬇️⬇️
-</p>
+<p>  Hi, I'm Farhan Rivaldy, I'm a Tech Enthusiasts from Indonesia. 
+If you need something from me, feel free to contact me at : </p>
+<br> <p> ⬇️⬇️⬇️</p>
 
 <a href="https://www.linkedin.com/in/farhanrivaldy">
 <img align="left" alt="Farhan Rivaldy | LinkedIn" width="21px" src="https://raw.githubusercontent.com/HaradaKumiko/HaradaKumiko/main/assets/Linkedin.png" />
