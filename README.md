@@ -1,7 +1,8 @@
 ### Hi there! 👋
 
 </p>  Hi, I'm Farhan Rivaldy, I'm a Tech Enthusiasts from Indonesia. 
-If you need something from me, feel free to contact me at ⬇️⬇️⬇️
+If you need something from me, feel free to contact me at : 
+⬇️⬇️⬇️
 </p>
 
 <a href="https://www.linkedin.com/in/farhanrivaldy">
