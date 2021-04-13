@@ -1,4 +1,4 @@
-### Hi there! 👋
+<b> Hi there! 👋 </b>
 
 <p>  Hi, I'm Farhan Rivaldy </p>
   <p> I'm a Tech Enthusiasts from Indonesia.</p>
