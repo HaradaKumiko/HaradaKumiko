@@ -9,10 +9,6 @@
 <img align="left" alt="Farhan Rivaldy | LinkedIn" width="21px" src="https://raw.githubusercontent.com/HaradaKumiko/HaradaKumiko/main/assets/Linkedin.png" />
 </a>
 
-<a href="https://https://www.facebook.com/han.rivaldy.5">
-  <img align="left" alt="Farhan Rivaldy | Facebook" width="21px" src="https://raw.githubusercontent.com/HaradaKumiko/HaradaKumiko/main/assets/facebook.png" />
-</a>
-
 <a href="https://twitter.com/farhanrivaldy_">
   <img align="left" alt="Farhan Rivaldy | Twitter" width="21px" src="https://raw.githubusercontent.com/HaradaKumiko/HaradaKumiko/main/assets/twitter.png" />
 </a>
