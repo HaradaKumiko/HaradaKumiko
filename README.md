@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HaradaKumiko&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight">
-
  #### Hi there 👋👋👋
  <p> My name is Farhan Rivaldy, everyone usually call me <b>Hann</b> </p>
   <p> I'm a Tech Enthusiasts from Indonesia.</p>
