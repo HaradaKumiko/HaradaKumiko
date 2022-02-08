@@ -7,4 +7,4 @@
       
 [LinkedIn](https://www.linkedin.com/in/farhanrivaldy)
 [Twitter](https://twitter.com/farhanrivaldy_)
-[Instagram](https://www.instagram.com/hann.desu.neee)
+[Instagram](https://www.instagram.com/farhanrivaldy_)
